@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61e03ea6-2523-4e04-a285-fd4edd5e3c41" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Deneme/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deneme/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deneme/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deneme/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deneme/Deneme.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deneme/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patika/ilkrepo/ilkrepo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patika/ilkrepo/src/patikailkrepo/firstpushforgithub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deneme1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deneme1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deneme1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deneme1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deneme1/deneme1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deneme1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstpushforpatika/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstpushforpatika/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstpushforpatika/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstpushforpatika/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstpushforpatika/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstpushforpatika/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstpushforpatika/firstpushforpatika.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstpushforpatika/src/giris/patikafirstrepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java101/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java101/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java101/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java101/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java101/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java101/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java101/java101.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java101/src/Giris/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2ZR8SXbBCofk0x7GsKUkhMCMTVb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/yigit/IdeaProjects/PatikaHafta1"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61e03ea6-2523-4e04-a285-fd4edd5e3c41" name="Changes" comment="" />
+      <created>1702373531792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702373531792</updated>
+    </task>
+    <servers />
+  </component>
+</project>
